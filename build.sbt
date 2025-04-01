@@ -1,8 +1,3 @@
-
-val toolkitV = "0.5.0"
-val toolkit = "org.scala-lang" %% "toolkit" % toolkitV
-val toolkitTest = "org.scala-lang" %% "toolkit-test" % toolkitV
-
-ThisBuild / scalaVersion := "2.13.14"
-libraryDependencies += toolkit
-libraryDependencies += (toolkitTest % Test)
+name := "scalaSpeedTestCal"
+version := "0.1"
+scalaVersion := "2.13.14"  // Stable version as of March 2025
