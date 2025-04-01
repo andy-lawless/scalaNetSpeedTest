@@ -75,3 +75,19 @@ Apr 01, 2025 10:30:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint noti
 INFO: Unsupported notification method: $/setTrace
 2025.04.01 22:30:40 INFO  compiling scala_d5c0a6989e (1 scala source)
 2025.04.01 22:30:40 INFO  time: compiled scala_d5c0a6989e in 0.41s
+2025.04.01 22:33:39 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.01 22:33:39 WARN  no build target for: /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt
+2025.04.01 22:33:39 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.01 22:33:39 WARN  Could not find semantic tokens for: file:///Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt
+2025.04.01 22:33:54 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.01 22:33:54 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.01 22:33:54 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.01 22:33:54 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.01 22:33:54 WARN  Could not find semantic tokens for: file:///Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt
+2025.04.01 22:33:55 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.01 22:33:54 WARN  no build target for: /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt
+2025.04.01 22:33:54 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.01 22:33:55 WARN  Could not find semantic tokens for: file:///Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt
+2025.04.01 22:33:55 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.01 22:33:55 WARN  Could not find semantic tokens for: file:///Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt
+2025.04.01 22:34:00 INFO  no build target found for /Users/andy/Documents/GitHub/trading-dashboard/scalaNetSpeedTest/buid.sbt. Using presentation compiler with project's scala-library version: 3.6.4
