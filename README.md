@@ -1,2 +1,2 @@
 # scalaNetSpeedTest
- detecs network speeds and rates them accordingly
+ detects network speeds and rates them accordingly
